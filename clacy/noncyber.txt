@@ -1,0 +1,13 @@
+site:www.yahoo.com
+site:techcrunch.com
+site:www.engadget.com
+site:www.nytimes.com
+site:www.cnn.com
+site:www.pravda.ru
+site:www.gazeta.ru
+site:lifenews.ru
+site:www.bbc.co.uk/russian/science
+site:www.163.com
+site:www.56.com
+site:tech.sina.com.cn
+site:cn.engadget.com

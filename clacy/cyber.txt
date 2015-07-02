@@ -1,0 +1,11 @@
+site:thehackernews.com
+site:www.blackhat.com
+site:www.securityweek.com
+site:xakep.ru
+site:www.gofuckbiz.com
+site:antichat.ru
+site:forum.xeksec.com
+site:forum.cnsec.org
+site:forum.eviloctal.com
+site:bbs.pediy.com
+site:bbs.blackbap.org/forum.php
